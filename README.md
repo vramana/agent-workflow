@@ -1,5 +1,7 @@
 # agent-workflow
 
+Forked from https://github.com/recursechat/agent-workflow. 
+
 Claude Code plugins for agent workflows.
 
 ## Plugins

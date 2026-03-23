@@ -1,6 +1,6 @@
 # agent-workflow
 
-Forked from https://github.com/recursechat/agent-workflow. 
+Forked from https://github.com/vramana/agent-workflow. 
 
 Claude Code plugins for agent workflows.
 
@@ -28,9 +28,9 @@ Includes a `/yolo` skill for toggling modes.
 Add the marketplace and install:
 
 ```
-/plugin marketplace add recursechat/agent-workflow
-/plugin install ghostty-notifications@recursechat-agent-workflow
-/plugin install yolo@recursechat-agent-workflow
+/plugin marketplace add vramana/agent-workflow
+/plugin install ghostty-notifications@vramana-agent-workflow
+/plugin install yolo@vramana-agent-workflow
 ```
 
 ## Install manually (without marketplace)

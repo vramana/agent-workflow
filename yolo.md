@@ -47,8 +47,8 @@ You can swap the model by changing `--model claude-opus-4-5-20251101` in the scr
 ## Install as a plugin
 
 ```
-/plugin marketplace add recursechat/agent-workflow
-/plugin install yolo@recursechat-agent-workflow
+/plugin marketplace add vramana/agent-workflow
+/plugin install yolo@vramana-agent-workflow
 ```
 
 This installs the review hook and the `/yolo` skill for toggling modes.

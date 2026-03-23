@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Auto-handle Claude Code permission requests. Route to Claude for security review, auto-approve everything, or turn off.",
   "author": {
-    "name": "recursechat",
-    "url": "https://github.com/recursechat"
+    "name": "vramana",
+    "url": "https://github.com/vramana"
   },
-  "repository": "https://github.com/recursechat/agent-workflow",
+  "repository": "https://github.com/vramana/agent-workflow",
   "license": "MIT",
   "keywords": ["permissions", "security", "auto-approve", "hooks"]
 }

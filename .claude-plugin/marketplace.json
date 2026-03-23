@@ -1,7 +1,7 @@
 {
-  "name": "recursechat-agent-workflow",
+  "name": "vramana-agent-workflow",
   "owner": {
-    "name": "recursechat"
+    "name": "vramana"
   },
   "metadata": {
     "description": "Claude Code plugins for agent workflows: Ghostty terminal notifications and permission auto-handling."
